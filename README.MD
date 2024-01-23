@@ -26,7 +26,7 @@
 ..../cache         缓存目录[必须可写入]
 ..../common        全站公共目录[必须可写入]
 ..../uploads       默认上传目录[必须可写入]
-..../yzmphp        程序核心目录[不建议修改]
+..../cmphp         程序核心目录[不建议修改]
 ..../index.php     程序单一入口文件
 ..../.htaccess     Apache伪静态文件[如您不是Apache软件，可根据此规则重写伪静态]
 ..../nginx.conf    Nginx下伪静态文件
